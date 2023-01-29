@@ -1,6 +1,6 @@
 # Project Proposal
 
-Team: Christina Borao, James Galbraith, Kai Finney Elwood-Dieu, Janak Balar, Diya Mohan
+Team: Christina Borao, James Galbraith
 
 Project Title: 
 
