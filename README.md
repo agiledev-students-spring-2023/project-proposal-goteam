@@ -1,8 +1,5 @@
 # Project Proposal
 
-## Team 
-Christina Borao, James Galbraith and Janak Balar
-
 ## Project 
 Title Restaurant Menu Item Rating Application
 
