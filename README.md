@@ -1,8 +1,5 @@
 # Project Proposal
 
-## Team 
-Christina Borao, James Galbraith and Janak Balar
-
 ## Project 
 Restaurant Item-Level Rating Application
 
